@@ -1,0 +1,22 @@
+.Firsthand{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    
+    
+}
+.Secondhand{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.PlayerOne{
+    text-align: center;
+
+}
+.PlayerTwo{
+    text-align: center;
+    margin-top: 100px;
+
+
+}

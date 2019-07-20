@@ -1,0 +1,23 @@
+.Pokecard{
+    border-radius: 25px;
+    border: none ;
+    padding: 20px; 
+    width: 200px;
+    height: 250px; 
+    background:#d6dbdb	;
+    box-shadow: 7px 10px 12px -5px black;
+}
+.name{
+    color : blue;
+}
+.center{
+    text-align: center;
+  
+}
+.imgSize{
+    height : 20;
+    width : 20;
+}
+.des{
+    margin : 5px;
+}
